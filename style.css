@@ -58,11 +58,11 @@
 }
 .about button{
     margin: 15px 0 ; 
-    width: 140px;
-    height: 40px;
+    width: 160px;
+    height: 45px;
     background-color: var(--color-2);
     border-color: var(--color-2);
-    border-radius: 3px 3px 3px;
+    border-radius: 0 8px 0 8px;
     font-size: medium;
     font-family: 'Space Mono', monospace;
     letter-spacing: 2px;
